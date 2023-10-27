@@ -1,0 +1,105 @@
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card {        
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;    
+    cursor: pointer;
+    border-top: 3px solid #1c7bd3;
+    border-radius: 3px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.brandName {
+    background-color: #eee;
+    font-weight: 600;
+    color: #002042;
+}
+.propertyName {
+    font-size: 9px m !important;
+}
+.foodID {
+    font-size: 12px;
+    color: #ccc !important;
+    margin-top: 10px;    
+}
+
+.cardInner {
+    color: #222;
+}
+.cardInner, .brandName {
+    padding: 10px;
+}
+.card a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tableHeader {
+    color: #fff;
+    background-color: #002042;
+}
+.tableHeader .tableCells {
+    color: #fff !important;
+    font-weight: 600 !important;
+}
+.tableRow {
+    color: #002042 !important;
+}
+.headerFoodDetail {
+    color: #002042;
+}
+.tableCellBold {
+     font-weight: 600 !important; color: #002042 !important;
+}
+.tableCellBlack {
+    color: #1a1a1a !important;
+    font-weight: bold !important;
+}
+.summaryTable {
+    border-top: 3px solid #002042;
+}
+
+.fav {
+    color: #828282;
+    font-size: 12px;
+    cursor: pointer;
+}
+.favButton {
+    background-color: transparent;
+    border: none;
+}
+.favRed {
+    color: #aa0808;
+}
+.removeFav {
+    background-color: transparent; border: none;
+}
+
+.deleteIcon {
+    color: #636363;
+    cursor: pointer;
+}
+.deleteIcon:hover {
+    color: #aa0808;
+}
+.searchField {
+    border-radius: 20px;
+    width: 100%;
+}
+
+.searchButton {
+    height: 56px;
+    margin-left: -15px !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
