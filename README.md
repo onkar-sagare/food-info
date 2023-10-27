@@ -1,3 +1,12 @@
+<img width="958" alt="image" src="https://github.com/onkar-sagare/food-info/assets/138656802/89aea33b-3c03-45a1-8687-3eb4134f4e48">
+
+<img width="946" alt="image" src="https://github.com/onkar-sagare/food-info/assets/138656802/932fed2c-78c0-4911-8488-e96ec4cb859f">
+
+<img width="948" alt="image" src="https://github.com/onkar-sagare/food-info/assets/138656802/835d9a27-a8c7-4846-a353-a3f5ba6e6975">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
