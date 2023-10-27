@@ -84,7 +84,7 @@ export default function SearchResult() {
           foods.map((item, i) => 
           
           
-            <Grid item xs={3}>
+            <Grid item lg={3} md={6} xs={12}>
               <div className="card">
               <Link to={`/food/${item.fdcId}`}>
                 <div className="brandName">
