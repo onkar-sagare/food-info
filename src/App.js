@@ -17,11 +17,11 @@ function App() {
       <div className='container' style={{Padding: "30px"}}> 
         <br></br>
         <Routes>
-				  <Route path="/search" element={<SearchResult />} />
-          <Route path="/" element={<Search />} />
-          <Route path="/food/:id" element={<FoodDetails/>}></Route>
-          <Route path="/favorite" element={<FavoriteFood/>}></Route>
-			  </Routes>
+		<Route path="/search" element={<SearchResult />} />
+          	<Route path="/" element={<Search />} />
+          	<Route path="/food/:id" element={<FoodDetails/>}></Route>
+          	<Route path="/favorite" element={<FavoriteFood/>}></Route>
+  	</Routes>
         
         
     </div>
